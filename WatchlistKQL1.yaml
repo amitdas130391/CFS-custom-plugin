@@ -16,4 +16,4 @@ SkillGroups:
           ResourceGroupName: sky365
           WorkspaceName: Sky365LA
           Template: |-
-            _GetWatchlist('d2096da2-bc75-435a-abb3-1f142514b6f7') | distinct SearchKey
+            _GetWatchlist('d2096da2-bc7xxxxxxxxxxx14b6f7') | distinct SearchKey
