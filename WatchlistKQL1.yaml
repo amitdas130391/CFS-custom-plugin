@@ -11,8 +11,8 @@ SkillGroups:
         Description: Used to maintain list of high sensitive accounts in LastPass.
         Settings:
           Target: Sentinel
-          TenantId: 7c7d5a81-260c-4416-b1b1-4192b1182225
-          SubscriptionId: 08856204-3654-4e38-97d7-b4a36135791e
+          TenantId: 7c7d5a81XXXX XXXXXXi5
+          SubscriptionId: 08856204-xxxxxxxxxxxxxx1e
           ResourceGroupName: sky365
           WorkspaceName: Sky365LA
           Template: |-
